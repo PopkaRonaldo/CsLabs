@@ -179,7 +179,7 @@ class Program
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("ОШИБКА: Сервер с таким ID не найден в базе данных!");
-                int s = 67;
+                
             }
         
         
