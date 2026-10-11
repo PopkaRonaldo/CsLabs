@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="sem-1-lab-03-report-generator.csproj" />
+  <Folder Name="/03 lab/" />
+  <Project Path="03 lab.Tests/03 lab.Tests.csproj" />
+  <Project Path="03 lab/sem-1-lab-03-report-generator.csproj" />
 </Solution>
